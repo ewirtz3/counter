@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#counterDiv {
+  border: 1px solid purple;
+  padding: 20px;
+}
+
+#count {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
